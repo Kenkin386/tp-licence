@@ -2,4 +2,4 @@ TPLICENSE - TrashPandaTradingBot licence list. One line per client: ACCOUNT,STAT
 # STATUS: ON = trade | PAUSE = no new trades, open trades finish | KILL = close all bot trades now
 # EXPIRES: YYYY.MM.DD or blank   SERVER: broker server name or blank (blank = any)
 335255,ON,,
-,ON,,
+555126865,ON,,
