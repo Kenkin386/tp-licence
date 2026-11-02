@@ -3,3 +3,4 @@ TPLICENSE - TrashPandaTradingBot licence list. One line per client: ACCOUNT,STAT
 # EXPIRES: YYYY.MM.DD or blank   SERVER: broker server name or blank (blank = any)
 335255,ON,,
 555126865,ON,,
+242355,ON,,
