@@ -6,3 +6,4 @@ TPLICENSE - TrashPandaTradingBot licence list. One line per client: ACCOUNT,STAT
 242355,ON,,
 242596,ON,,
 555126903,ON,,
+555125410,ON,,
